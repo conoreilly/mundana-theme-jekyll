@@ -1,6 +1,6 @@
 ---
 title: "About"
-layout: page <!---page-sidebar --->
+layout: page<!---page-sidebar --->
 permalink: "/about.html"
 image: "/assets/images/screenshot.jpg"
 comments: false
