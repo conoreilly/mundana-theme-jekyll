@@ -1,8 +1,15 @@
 ---
 title: "About"
-layout: page-sidebar
+layout: page <!---page-sidebar --->
 permalink: "/about.html"
 image: "/assets/images/screenshot.jpg"
-comments: true
+comments: false
 ---
-Made with <i class="fa fa-heart text-danger"></i> by Sal [@wowthemesnet](https://www.wowthemes.net/category/free-themes-templates/).
+
+<!--- add site description --->
+{{ site.description }}
+
+
+<!---Made with <i class="fa fa-heart text-danger"></i> by Sal [@wowthemesnet](https://www.wowthemes.net/category/free-themes-templates/).
+--->
+
