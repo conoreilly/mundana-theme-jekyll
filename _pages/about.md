@@ -9,7 +9,8 @@ comments: false
 <!--- add site description --->
 {{ site.description }}
 
+blah blah 
 
-<!---Made with <i class="fa fa-heart text-danger"></i> by Sal [@wowthemesnet](https://www.wowthemes.net/category/free-themes-templates/).
---->
+Made with <i class="fa fa-heart text-danger"></i> by Sal [@wowthemesnet](https://www.wowthemes.net/category/free-themes-templates/).
+
 
